@@ -1,0 +1,10 @@
+# Archivos de release de SNOMED CT (licencia restringida, no redistribuir)
+SnomedCT_*.zip
+*.zip
+*RF2*
+Snapshot/
+Full/
+Delta/
+
+# Variables de entorno locales
+.env
